@@ -1,4 +1,4 @@
-module common-host-libs
+module github.com/hpe-storage/common-host-libs
 
 go 1.19
 
